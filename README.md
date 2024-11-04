@@ -100,6 +100,6 @@ Este proyecto está bajo la Licencia MIT.
 
 ## Información de Contacto
 
-- **Nombre:** Jonay Mend
+- **Nombre:** Jonay Medina
 - **Correo:** [jonay12@gmail.com](mailto:jonay12@gmail.com)
 - **Teléfono:** +58-412-55555555
