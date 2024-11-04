@@ -11,8 +11,14 @@ namespace App\Core;
  */
 abstract class AbstractSearchResult implements SearchResult
 {
+    /** @var string El nombre del recurso */
     protected string $name;
 
+    /**
+     * Constructor de AbstractSearchResult.
+     * 
+     * @param string $name El nombre del recurso
+     */
     public function __construct(string $name)
     {
         $this->name = $name;
